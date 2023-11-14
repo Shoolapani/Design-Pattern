@@ -20,6 +20,6 @@ As a fellow enthusiast, I've explored Design Patterns, appreciating their power 
 
 In my upcoming post, delve deeper into **Creational Patterns**. Stay tuned! 📝🔔
 
-🔗 #designpatterns #softwaredevelopment #coding #bestpractices #GangOfFour
+🔗 **#designpatterns #softwaredevelopment #coding #bestpractices #GangOfFour #C/C++ #Java**
 
 Join the ranks of design pattern enthusiasts. Unlock the enormous potential of your software design journey. Let's craft a superior and more elegant digital realm together! 🚀
